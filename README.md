@@ -8,7 +8,7 @@
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&lines=CSE+Senior+Student;Game-dev+Enthusiast)](https://git.io/typing-svg)
   
 </div>
-<div >
+<div style="display:inline-block;" >
     <div style="display:inline-block;">
         <p align="left"> 
             <img src="https://komarev.com/ghpvc/?username=davidsamy1&label=Profile%20views&color=0e75b6&style=flat" alt="davidsamy1" /> 
