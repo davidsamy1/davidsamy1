@@ -8,6 +8,7 @@
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&lines=CSE+Senior+Student;Game-dev+Enthusiast)](https://git.io/typing-svg)
   
 </div>
+<div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=davidsamy1&label=Profile%20views&color=0e75b6&style=flat" alt="davidsamy1" /> </p>
 <h2 align="left"><i><b>About me </i></b></h2>
 
@@ -29,7 +30,7 @@
       <a href="http://discordapp.com/users/David Samy#6181">
         <img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge" align="right"/>
       </a>
-  
+  </div>
 
   
 
