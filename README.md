@@ -8,7 +8,8 @@
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&lines=CSE+Senior+Student;Game-dev+Enthusiast)](https://git.io/typing-svg)
   
 </div>
-<div>
+<div style="display: flex;">
+    <div align="left">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=davidsamy1&label=Profile%20views&color=0e75b6&style=flat" alt="davidsamy1" /> </p>
 <h2 align="left"><i><b>About me </i></b></h2>
 
@@ -21,15 +22,21 @@
 - 📫 How to reach me **davidsamy0800@gmail.com**
 
 - 📄 Know about my experiences [here]()
-    <img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" align="right"/>
+- </div>
+<div id="header" align="right">
+    <img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
     <br>
     <br>
-    <a href="https://www.linkedin.com/in/david-samy/">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" align="right"/>
+    <a href="https://www.linkedin.com/in/mina-magdy-388b16231">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
       </a>
-      <a href="http://discordapp.com/users/David Samy#6181">
-        <img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge" align="right"/>
+      <a href="https://github.com/mina0magdy">
+        <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white" alt="Youtube Badge" position=flex/>
       </a>
+      <a href="http://discordapp.com/users/minamoo#1071">
+        <img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=white" alt="Twitter Badge"/>
+      </a>
+  </div>    
   </div>
 
   
