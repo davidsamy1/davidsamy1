@@ -8,8 +8,8 @@
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&lines=CSE+Senior+Student;Game-dev+Enthusiast)](https://git.io/typing-svg)
   
 </div>
-<div style="display: flex;">
-    <div style="flex: 1;">
+<div >
+    <div style="width: 50%; height: 50%; float:left;">
         <p align="left"> 
             <img src="https://komarev.com/ghpvc/?username=davidsamy1&label=Profile%20views&color=0e75b6&style=flat" alt="davidsamy1" /> 
         </p>
@@ -22,7 +22,7 @@
             <li>📄 Know about my experiences <a href="#">here</a></li>
         </ul>
     </div>
-    <div style="flex: 1; text-align: right;">
+    <div style="width: 50%; height: 50%; float:right;">
         <img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
         <br>
         <br>
