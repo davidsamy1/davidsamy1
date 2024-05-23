@@ -10,34 +10,31 @@
 </div>
 <div style="display: flex;">
     <div align="left">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=davidsamy1&label=Profile%20views&color=0e75b6&style=flat" alt="davidsamy1" /> </p>
-<h2 align="left"><i><b>About me </i></b></h2>
+        <p align="left"> 
+            <img src="https://komarev.com/ghpvc/?username=davidsamy1&label=Profile%20views&color=0e75b6&style=flat" alt="davidsamy1" /> 
+        </p>
+        <h2 align="left"><i><b>About me </i></b></h2>
+        <ul>
+            <li>🌱 I’m currently learning <strong>Unreal Engine</strong></li>
+            <li>💁‍ I love developing websites and web/mobile applications.</li>
+            <li>🎨 I enjoy reading and gaming.</li>
+            <li>📫 How to reach me <strong>davidsamy0800@gmail.com</strong></li>
+            <li>📄 Know about my experiences <a href="#">here</a></li>
+        </ul>
+    </div>
+    <div id="header" align="right">
+        <img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+        <br>
+        <br>
+        <a href="https://www.linkedin.com/in/david-samy/">
+            <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+        </a>
+        <a href="http://discordapp.com/users/David Samy#6181">
+            <img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=white" alt="discord Badge"/>
+        </a>
+    </div>    
+</div>
 
-- 🌱 I’m currently learning **Unreal Engine**
-
-- 💁‍ I love developing websites and web/mobile applications.
-
-- 🎨 I enjoy reading and gaming. 
-
-- 📫 How to reach me **davidsamy0800@gmail.com**
-
-- 📄 Know about my experiences [here]()
-- </div>
-<div id="header" align="right">
-    <img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
-    <br>
-    <br>
-    <a href="https://www.linkedin.com/in/mina-magdy-388b16231">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-      </a>
-      <a href="https://github.com/mina0magdy">
-        <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white" alt="Youtube Badge" position=flex/>
-      </a>
-      <a href="http://discordapp.com/users/minamoo#1071">
-        <img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=white" alt="Twitter Badge"/>
-      </a>
-  </div>    
-  </div>
 
   
 
