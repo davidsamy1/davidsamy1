@@ -8,20 +8,6 @@
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&lines=CSE+Senior+Student;Game-dev+Enthusiast)](https://git.io/typing-svg)
   
 </div>
-<div style="display: flex; align-items: flex-start;">
-    <div style="flex: 1;">
-        <p align="left"> 
-            <img src="https://komarev.com/ghpvc/?username=davidsamy1&label=Profile%20views&color=0e75b6&style=flat" alt="davidsamy1" /> 
-        </p>
-        <h2 align="left"><i><b>About me </i></b></h2>
-        <ul>
-            <li>🌱 I’m currently learning <strong>Unreal Engine</strong></li>
-            <li>💁‍ I love developing websites and web/mobile applications.</li>
-            <li>🎨 I enjoy reading and gaming.</li>
-            <li>📫 How to reach me <strong>davidsamy0800@gmail.com</strong></li>
-            <li>📄 Know about my experiences <a href="#">here</a></li>
-        </ul>
-    </div>
  <div style="display: flex;">
     <div style="flex: 1;">
         <p align="left"> 
