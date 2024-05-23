@@ -9,7 +9,7 @@
   
 </div>
 <div  >
-    <div style="width: 50%; float: left;">
+    <div style="float: left;">
         <p align="left"> 
             <img src="https://komarev.com/ghpvc/?username=davidsamy1&label=Profile%20views&color=0e75b6&style=flat" alt="davidsamy1" /> 
         </p>
@@ -22,7 +22,7 @@
             <li>📄 Know about my experiences <a href="#">here</a></li>
         </ul>
     </div>
-    <div style="margin-left: 15%;">
+    <div style="float:right;">
         <img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
         <br>
         <br>
