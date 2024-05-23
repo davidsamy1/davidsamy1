@@ -20,18 +20,17 @@
 - 📫 How to reach me **davidsamy0800@gmail.com**
 
 - 📄 Know about my experiences [here]()
-<div id="header" align="right">
-    <img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+    <img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" align="right"/>
     <br>
     <br>
     <a href="https://www.linkedin.com/in/david-samy/">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" align="right"/>
       </a>
       <a href="http://discordapp.com/users/David Samy#6181">
-        <img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
+        <img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge" align="right"/>
       </a>
   
-</div>
+
   
 
   <h2><i><b> Skills </i></b></h2>
