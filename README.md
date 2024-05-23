@@ -8,7 +8,7 @@
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&lines=CSE+Senior+Student;Game-dev+Enthusiast)](https://git.io/typing-svg)
   
 </div>
- <div style="display: flex;">
+<div style="display: flex;">
     <div style="flex: 1;">
         <p align="left"> 
             <img src="https://komarev.com/ghpvc/?username=davidsamy1&label=Profile%20views&color=0e75b6&style=flat" alt="davidsamy1" /> 
@@ -22,20 +22,19 @@
             <li>📄 Know about my experiences <a href="#">here</a></li>
         </ul>
     </div>
-    <div style="flex: 1; display: grid; justify-content: end;">
-        <div id="header" style="align-self: flex-end;">
-            <img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
-            <br>
-            <br>
-            <a href="https://www.linkedin.com/in/david-samy/">
-                <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-            </a>
-            <a href="http://discordapp.com/users/David Samy#6181">
-                <img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=white" alt="discord Badge"/>
-            </a>
-        </div>    
+    <div style="flex: 1; text-align: right;">
+        <img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+        <br>
+        <br>
+        <a href="https://www.linkedin.com/in/david-samy/">
+            <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+        </a>
+        <a href="http://discordapp.com/users/David Samy#6181">
+            <img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=white" alt="discord Badge"/>
+        </a>
     </div>
 </div>
+
 
 
 
