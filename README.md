@@ -8,33 +8,36 @@
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&lines=CSE+Senior+Student;Game-dev+Enthusiast)](https://git.io/typing-svg)
   
 </div>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=davidsamy1&label=Profile%20views&color=0e75b6&style=flat" alt="davidsamy1" /> </p>
-<div>
-<div id="header" align="right">
-    <img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
-    <br>
-    <br>
-    <a href="https://www.linkedin.com/in/david-samy/">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-      </a>
-      <a href="http://discordapp.com/users/David Samy#6181">
-        <img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
-      </a>
-  
+<div style="display: flex;">
+    <div>
+        <p align="left"> 
+            <img src="https://komarev.com/ghpvc/?username=davidsamy1&label=Profile%20views&color=0e75b6&style=flat" alt="davidsamy1" /> 
+        </p>
+        <div id="header" align="right">
+            <img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+            <br>
+            <br>
+            <a href="https://www.linkedin.com/in/david-samy/">
+                <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+            </a>
+            <a href="http://discordapp.com/users/David Samy#6181">
+                <img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
+            </a>
+        </div>
+    </div>
+    <div>
+        <h2 align="left"><i><b>About me </i></b></h2>
+        <ul>
+            <li>🌱 I’m currently learning <strong>Unreal Engine</strong></li>
+            <li>💁‍ I love developing websites and web/mobile applications.</li>
+            <li>🎨 I enjoy reading and gaming.</li>
+            <li>📫 How to reach me <strong>davidsamy0800@gmail.com</strong></li>
+            <li>📄 Know about my experiences <a href="#">here</a></li>
+        </ul>
+    </div>
 </div>
-  <h2 align="left"><i><b>About me </i></b></h2>
 
-- 🌱 I’m currently learning **Unreal Engine**
 
-- 💁‍ I love developing websites and web/mobile applications.
-
-- 🎨 I enjoy reading and gaming. 
-
-- 📫 How to reach me **davidsamy0800@gmail.com**
-
-- 📄 Know about my experiences [here]()
-
- </div>
   <h2><i><b> Skills </i></b></h2>
 <div align="center">
 
