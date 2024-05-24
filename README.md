@@ -51,9 +51,15 @@
 <br>
 
 <div display: flexbox>
+    
+<div class='container'>
+<img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=davidsamy1&show_icons=true&include_all_commits=true&rank_icon=github&theme=dark" />
+&nbsp;
+&nbsp;
+<img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidsamy1&layout=compact&theme=dark" /></div>
+</div>
 
-
-[![GitHub Streak](https://github-readme-stats.vercel.app/api?username=davidsamy1&show_icons=true&include_all_commits=true&rank_icon=percentile&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-stats.vercel.app/api?username=davidsamy1&show_icons=true&include_all_commits=true&rank_icon=github&theme=dark)](https://git.io/streak-stats)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidsamy1&layout=compact&theme=dark" height="190">
 <br>
