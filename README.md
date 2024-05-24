@@ -13,8 +13,8 @@
         <p align="left"> 
             <img src="https://komarev.com/ghpvc/?username=davidsamy1&label=Profile%20views&color=0e75b6&style=flat" alt="davidsamy1" /> 
         </p>
-        <img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" align="right" style="margin-top: 150px;"/>
-        <h2 align="left"><i><b>About me </i></b></h2>
+        <img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" align="right" />
+        <span style="text-decoration: none;"><i><b>About me</b></i></span>
         <ul>
             <li>🌱 I’m currently learning <strong>Unreal Engine</strong></li>
             <li>💁‍ I love developing websites and web/mobile applications.</li>
@@ -23,7 +23,7 @@
             <li>📄 Know about my experiences <a href="#">here</a></li>
         </ul>
     </div>
-    <div style="margin-left: 50px;">
+    <div>
         <a href="https://www.linkedin.com/in/david-samy/">
             <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
         </a>
