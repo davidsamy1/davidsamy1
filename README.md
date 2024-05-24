@@ -55,10 +55,10 @@
 
 [![GitHub Streak](https://github-readme-stats.vercel.app/api?username=davidsamy1&show_icons=true&theme=dark)](https://git.io/streak-stats)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidsamy1&layout=compact&theme=dark" height="190">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidsamy1&layout=compact&include_all_commits=true&rank_icon=percentile&theme=dark" height="190">
 <br>
 <br>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=davidsamy1&include_all_commits=true&rank_icon=percentile&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=davidsamy1&theme=dark)](https://git.io/streak-stats)
 
 </div>
