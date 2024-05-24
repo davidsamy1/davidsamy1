@@ -58,6 +58,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidsamy1&layout=compact&theme=dark" height="190">
 <br>
 <br>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=davidsamy1&theme=dark)](https://git.io/streak-stats)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=davidsamy1\&include_all_commits=true&rank_icon=percentile&theme=dark)](https://git.io/streak-stats)
 
 </div>
