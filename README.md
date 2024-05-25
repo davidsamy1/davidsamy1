@@ -18,7 +18,7 @@
         <ul>
             <li>🌱 I’m currently learning <strong>Unreal Engine</strong></li>
             <li>💁‍ I love developing websites and web/mobile applications.</li>
-            <li>🎨 I enjoy reading novels & mangas, watching anime and gaming.</li>
+            <li>🎨 I enjoy reading novels & manga, watching anime and gaming.</li>
             <li>📫 How to reach me <strong>davidsamy0800@gmail.com</strong></li>
             <li>📄 Know about my experiences <a href="#">here</a></li>
         </ul>
