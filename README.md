@@ -5,7 +5,7 @@
   
   <div align="center">
   
-[![Typing SVG](http://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&lines=CSE+Senior+Student;Game-dev+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](http://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&lines=CSE+Senior+Student+At+GUC;Game-dev+Enthusiast)](https://git.io/typing-svg)
   
 </div>
 <div>
