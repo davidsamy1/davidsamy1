@@ -16,7 +16,7 @@
         <img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" align="right" />
         <span style="text-decoration: none;"><i><b>About me</b></i></span>
         <ul>
-            <li>🌱 I’m currently learning <strong>Game Design</strong></li>
+            <li>🌱 I’m currently learning <strong>DevOps</strong></li>
             <li>💁‍ I love developing websites and web/mobile applications.</li>
             <li>🎨 I enjoy reading novels & manga, watching anime and gaming.</li>
             <li>📫 How to reach me <strong>davidsamy0800@gmail.com</strong></li>
