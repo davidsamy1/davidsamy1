@@ -20,7 +20,7 @@
             <li>💁‍ I love developing websites and web/mobile applications.</li>
             <li>🎨 I enjoy reading novels & manga, watching anime and gaming.</li>
             <li>📫 How to reach me <strong>davidsamy0800@gmail.com</strong></li>
-            <li>📄 Know about my experiences <a href="https://drive.google.com/file/d/1is0IXQX8hHdTnWrYts9SKFxkfv1aCCwu/view?usp=sharing>here</a></li>
+            <li>📄 Know about my experiences <a href="https://drive.google.com/file/d/1is0IXQX8hHdTnWrYts9SKFxkfv1aCCwu/view?usp=sharing">here</a></li>
             <li>🌐 Check out my portfolio <a href="https://david-samy-portfolio.vercel.app/">here</a></li>
         </ul>
     </div>
